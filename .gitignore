@@ -1,0 +1,22 @@
+node_modules
+.next
+out
+build
+.DS_Store
+*.pem
+npm-debug.log*
+.env*.local
+.env
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+coverage
+
+# Dokumen perancangan — tidak ikut commit (README.md tetap disertakan)
+/PRD.md
+/design.md
+/tasks.md
+/AGENTS.md
+/CONTEXT.md
+/bawa-apa-context.md
+/docs/adr/
