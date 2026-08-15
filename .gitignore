@@ -20,3 +20,6 @@ coverage
 /CONTEXT.md
 /bawa-apa-context.md
 /docs/adr/
+
+# Agent skills pribadi
+/.agents/
