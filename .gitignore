@@ -23,3 +23,4 @@ coverage
 
 # Agent skills pribadi
 /.agents/
+skills-lock.json
